@@ -1,0 +1,26 @@
+{
+  "name": "perfect-npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralymov/perfect-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "perfect"
+  ],
+  "author": "ralymov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralymov/perfect-npm-package/issues"
+  },
+  "homepage": "https://github.com/ralymov/perfect-npm-package#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
