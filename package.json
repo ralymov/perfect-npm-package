@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ralymov/perfect-npm-package.git"
-  },
+  "repository": "https://github.com/ralymov/perfect-npm-package.git",
   "keywords": [
     "npm",
     "perfect"
