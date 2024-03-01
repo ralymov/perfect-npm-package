@@ -1,15 +1,15 @@
 {
   "name": "perfect-npm-package",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": { 
-    "type": "git", 
-    "url": "https://github.com/ralymov/perfect-npm-package.git" 
-  }, 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralymov/perfect-npm-package.git"
+  },
   "keywords": [
     "npm",
     "perfect"
